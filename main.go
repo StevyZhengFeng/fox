@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fox/cmd"
+	"github.com/StevyZhengFeng/fox/cmd"
 )
 
 func main() {
